@@ -1,0 +1,11 @@
+Games Played: 10
+Games Won: 8
+Best Try: 1
+Current Streak: 0
+Max Streak: 7
+Best Try#1: 1
+Best Try#2: 3
+Best Try#3: 2
+Best Try#4: 0
+Best Try#5: 1
+Best Try#6: 1
